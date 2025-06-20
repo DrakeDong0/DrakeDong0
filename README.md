@@ -1,5 +1,6 @@
-
-
-<a href="https://github.com/expitau#gh-dark-mode-only">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=drakedong0&hide=issues&show_icons=true&theme=github_dark_dimmed#gh-dark-mode-only" />
+<a href="https://github.com/drakedong0" class="gh-dark-mode-only">
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakedong0&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/drakedong0" class="gh-light-mode-only">
+  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakedong0&theme=default" />
 </a>
