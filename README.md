@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**DrakeDong0/DrakeDong0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Drakedong0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakedong0)](https://github.com/Drakedong0/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
