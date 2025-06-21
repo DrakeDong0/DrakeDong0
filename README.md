@@ -30,7 +30,7 @@ Programming Languages
  ![HTML5 Badge](https://img.shields.io/badge/-HTML5-3B4252?logo=html5&style=flat)
  ![C++ Badge](https://img.shields.io/badge/-C++-3B4252?logo=cplusplus&style=flat)
 
-Libraries and Frameworks
+Frameworks and Tools
 
 ![Vue.js Badge](https://img.shields.io/badge/-Vue.js-3B4252?logo=vue.js&style=flat)
 ![React Badge](https://img.shields.io/badge/-React-3B4252?logo=react&style=flat)
@@ -38,7 +38,6 @@ Libraries and Frameworks
 ![Flask Badge](https://img.shields.io/badge/-Flask-3B4252?logo=flask&style=flat)
 ![Postman Badge](https://img.shields.io/badge/-Postman-3B4252?logo=postman&style=flat)
 ![Figma Badge](https://img.shields.io/badge/-Figma-3B4252?logo=figma&style=flat)
-![Stripe Badge](https://img.shields.io/badge/-Stripe-3B4252?logo=stripe&style=flat)
 ![Jira Badge](https://img.shields.io/badge/-Jira-3B4252?logo=jira&style=flat)
 
 Ops & Deployment
