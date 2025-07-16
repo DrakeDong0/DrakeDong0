@@ -12,9 +12,8 @@ I'm Drake, a software developer and third-year Computer Engineering student at t
 Outside of school, you might find me playing pickup at the local park or losing my marbles solving [leetcode](https://leetcode.com/u/drakedong0/) problems. Some of my interests include:
 
 - 🏀 Basketball, 🏐 Volleyball, and 🤺 Fencing
-- 🚌 Urban Planning & Interior Design
-- 📺 Modern/War History
 - 🎮 Esports
+- 🚌 Urban Planning & Interior Design
 - 🌎 Travels
 
 ***
