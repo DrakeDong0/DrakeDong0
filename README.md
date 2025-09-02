@@ -55,7 +55,7 @@ Ops & Deployment
 
 ### I'm currently working on:
 - A fog of war App for IOS
-- Upgrading OCR from Pytesseract to an ai model for my r/wsb project
+- Upgrading OCR from Pytesseract to an ai model for my r/wsb project  ✅
 - 🙏🙏🙏 Getting into exchange 🥺👉👈
 
 
