@@ -7,7 +7,7 @@
 
 ## Hi! It's nice to meet you 👋
 
-I'm Drake, a software developer and third-year Computer Engineering student at the University of Waterloo. I have a main interest in backend systems and scalable cloud infrastructure, but am always down to try something new.
+I'm Drake, a software developer and third-year Computer Engineering student at the University of Waterloo. I have my main interests in backend systems right now, but I'm always down to try something new.
 
 Outside of school, you might find me playing pickup at the local park or losing my marbles solving [leetcode](https://leetcode.com/u/drakedong0/) problems. Some of my interests include:
 
