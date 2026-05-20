@@ -13,7 +13,7 @@ Outside of school, you might find me playing pickup at the local park or losing 
 
 - 🏀 Basketball, 🏐 Volleyball, and 🤺 Fencing
 - 🎮 Esports
-- 🚌 Urban Planning & Interior Design
+- 📷 Photography
 - 🌎 Travels
 
 ***
